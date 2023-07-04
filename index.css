@@ -1,0 +1,69 @@
+/* All Pages Default Setting */
+@font-face {
+    font-family: customFonts;
+    src: url(Langdon_2.otf);
+}
+
+#title {
+    font-family: customFonts;
+    font-size: 100px;
+}
+
+.nav-pills .nav-link.active {
+    color: black;
+    font-weight: 700;
+    font-size: 13px;
+    background-color: rgb(199, 199, 199);
+}
+
+.nav-pills .nav-link {
+    color: black;
+    font-size: 13px;
+}
+
+
+
+/* index(first page) setting */
+.entry {
+    margin-left: 50px;
+}
+
+#btnClass {
+    background-color: rgba(53, 162, 230, 0.462);
+    border-style: none;
+    font-weight: 650;
+}
+
+#btnWork {
+    background-color: rgba(209, 55, 55, 0.462);
+    border-style: none;
+    font-weight: 650;
+}
+
+.question {
+
+    font-weight: 700;
+    font-size: 18px;
+}
+
+
+/* Philosophy */
+#card-title {
+    font-size: 200px;
+    font-weight: 750;
+}
+
+
+/* Strength */
+#strengthTitle {
+    color: rgb(209, 55, 55)
+}
+
+/* Teammate */
+#teammateTitle {
+    color: rgb(105, 61, 237)
+}
+
+#conclusion {
+    font-weight: 650;
+}
